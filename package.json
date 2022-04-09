@@ -23,6 +23,8 @@
     "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
+    "@vimeo/player": "^2.16.4",
+    "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.10.3"
   }
 }
